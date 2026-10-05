@@ -1,3 +1,28 @@
+Mi teclado pide vacaciones
+Hoy el café compila
+El WiFi vuelve a fallar
+A buen hambre, no hay pan duro
+Nunca confíes en un float
+El 404 también tiene sentimientos
+Mi código necesita unas vacaciones
+Más vale un commit que mil promesas
+El ratón ha decidido jubilarse hoy
+En casa del herrero, cuchillo de palo
+El backend funciona, el frontend llora
+He borrado el código equivocado otra vez
+CSS: haciendo que todo parezca sencillo
+Mi servidor duerme más que yo
+Donde hay un bug, hay una solución pendiente
+El cliente quiere cambios para ayer
+Primero funciona, luego ya veremos el código
+Hoy he aprendido que PHP también puede sufrir
+No hay mejor debugger que una buena taza de café
+El examen empieza en diez minutos y no sé nada
+A veces programar consiste en buscar una coma
+El header está bien, pero el footer ha escapado
+Mi código tiene más parches que una carretera vieja
+He abierto el proyecto y ya necesito otro café
+Si el código funciona a la primera, desconfía inmediatamente
 
 
 
