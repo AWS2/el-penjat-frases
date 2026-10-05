@@ -1,28 +1,28 @@
-El gos del veí sempre borda massa
-Demà anirem a la platja ben d'hora
-He deixat les claus dins del cotxe
-Aquesta nit sopem pizza i gelat
-El meu gat dorm sobre el teclat
-Ningú sap qui s'ha menjat les galetes
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+El bug ha tornat
+Avui no compila res
+Més val tard que mai
+El CSS m'odia
+On és el meu cafè?
+Qui sembra, recull
+El div s'ha descontrolat
+PHP ha decidit no funcionar
+El servidor necessita vacances
+Avui toca lluitar amb el flexbox
+A cavall regalat no li miris el dentat
+He fet deploy i ara tinc por
+El client vol només un petit canvi
+El meu codi funciona per algun motiu
+Un margin més i abandono el projecte
+HTML sense CSS és com una casa buida
+El bug desapareix quan comparteixo pantalla
+Qui no arrisca, no programa
+He corregit un error i n'han aparegut cinc
+La consola té més secrets que el meu mòbil
+Si funciona en producció, millor no tocar res
+El localhost és l'únic lloc on tot funciona
+Avui he passat més temps buscant bugs que programant
+El professor diu que és fàcil, però el codi diu el contrari
+Quan acabes el projecte, descobreixes que faltava una funcionalitat
 
 
 
