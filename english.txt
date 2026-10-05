@@ -48,7 +48,6 @@ You miss one hundred percent of the shots you don't take.
 Don't put off until tomorrow what you can do today, especially fun.
 Knowledge is power, but wisdom knows when to use it wisely.
 Quick thinking can turn a tricky moment into a great story.
-
 The moon disappeared behind the clouds just before midnight.
 Never count your chickens before they hatch.
 My neighbor has been building a treehouse since last spring.
@@ -74,27 +73,28 @@ Some people believe that black cats bring bad luck.
 The archaeologists discovered a hidden room beneath the temple.
 I forgot my passport and had to turn around at the airport.
 The little robot waved goodbye before shutting itself down.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Actions speak louder than words
+The loop never reaches its base case
+My dog barks at every passing car
+You should refactor this messy function
+Every cloud has a silver lining
+The state updates asynchronously in React
+We drink tea with milk every afternoon
+Strike while the iron is hot
+The API key expired an hour ago
+She rides her bike to work every day
+The early bird catches the worm
+Always sanitize user input before saving
+The bakery smells amazing in the morning
+This query joins three tables at once
+Too many cooks spoil the broth
+A promise can be resolved or rejected
+My grandfather tells stories about the war
+Never trust data coming from the client
+The museum opens at ten on weekends
+The grass is always greener on the other side
+Use a linter to catch syntax mistakes early
+Autumn leaves cover the entire sidewalk
+The middleware runs before every request
+Measure twice and cut once in production
+A good developer writes tests before code

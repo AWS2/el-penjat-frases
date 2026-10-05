@@ -48,7 +48,6 @@ Yo no procrastino: simplemente dejo que maduren las ideas.
 Si la vida te da limones, pide también un poco de hielo.
 En esta casa mandan las ganas, el café y el sentido común.
 Que la fuerza te acompañe, incluso cuando no sabes adónde vas.
-
 Las montañas parecen gigantes cuando las ves desde el valle.
 A quien madruga, Dios le ayuda.
 Mi perro cree que todos los paquetes son regalos para él.
@@ -74,27 +73,28 @@ El árbitro sacó una tarjeta roja en el último minuto.
 A veces perderse es la mejor manera de descubrir un lugar nuevo.
 El robot aprendió a reconocer las voces de sus creadores.
 La entrada del castillo estaba escondida detrás de una cascada.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Más vale tarde que nunca
+El array empieza en el índice cero
+Mi vecino toca la guitarra cada tarde
+Hay que depurar este componente de React
+Ojos que no ven, corazón que no siente
+La variable no está declarada en el scope
+Desayuno tostadas con tomate y aceite
+A caballo regalado no le mires el diente
+El endpoint devuelve un JSON mal formado
+El tren de las ocho siempre llega puntual
+No dejes para mañana lo que puedas hacer hoy
+Hay que conectar el frontend con el backend
+Los domingos me gusta dormir hasta tarde
+El evento click no se dispara en ese botón
+Perro ladrador, poco mordedor
+La caché del navegador guarda los archivos estáticos
+En verano hace demasiado calor en la ciudad
+Usa variables de entorno para las claves secretas
+El parque está lleno de niños jugando
+Cuando el río suena, agua lleva
+El componente se renderiza dos veces por error
+Mi hermana estudia medicina en la universidad
+Hay que hacer un merge sin conflictos en Git
+Las olas del mar suenan relajantes al atardecer
+No hay atajo sin trabajo
